@@ -3,7 +3,7 @@ title: Web scraping basics for JavaScript devs
 description: Learn how to develop web scrapers with this comprehensive and practical course. Go from beginner to expert, all in one place.
 sidebar_position: 1
 category: web scraping & automation
-slug: /web-scraping-for-beginners
+slug: /scraping-basics-javascript/legacy
 ---
 
 # Web scraping basics for JavaScript devs {#welcome}
